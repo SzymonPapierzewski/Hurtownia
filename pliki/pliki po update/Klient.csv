@@ -1,0 +1,9 @@
+id_klienta,Nazwisko,Imie,pesel,mail,data_wprowadzania_rekordu_klient,delete_klient
+1,Jagiello,Maksymilian,84091224347,JagielloMaksymilian@wp.pl,2019-05-01 00:00:00,0
+2,Laurentyn,S³owik,58031054309,LaurentynS³owik@wp.pl,2019-05-02 00:00:01,0
+3,Przybysz,Wera,70070324988,PrzybyszWera@wp.pl,2019-05-03 00:00:02,0
+4,,Chrobak,63022725319,ChrobakUrlyk@wp.pl,2019-05-04 00:00:03,0
+5,Skupien,Imislaw,80091819220,SkupienImislaw@wp.pl,2019-05-04 00:00:04,0
+6,Ptak,Loda,60060686231,PtakLoda@wp.pl,2019-05-01 00:00:05,0
+7,Swiniarski,,67011728839,SwiniarskiNahum@wp.pl,2019-05-02 00:00:06,0
+8,Przytula,Chociebor,90092238504,PrzytulaChociebor@wp.pl,2019-05-05 00:00:07,0

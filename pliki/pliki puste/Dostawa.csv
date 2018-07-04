@@ -1,0 +1,2 @@
+id_dostawy,id_filmu,ilosc_dostarczonych_egzemplarzy,data_dostawy,data_wprowadzenia_rekordu_zamowienie,delete_dostawa
+1,1,10,2018-05-01,2018-05-02 11:54:10,0

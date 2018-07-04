@@ -1,0 +1,9 @@
+id_filmu,cena,Rezyser,Rok_wydania,Tytul,ilosc_egzempalarzy,Stan,data_wprowadzenia_rekordu_film,delete_film
+1,20,Steven Spielberg,1993-01-01,Lista Schindlera,100,90,2019-05-15 12:16:32,0
+2,24,Peter Jackson,2001-01-01,Wladca Pierscieni,200,100,2019-05-22 15:30:12,0
+3,19,Martin Scorsese,2001-01-01,Ulice nedzy,90,80,2019-05-12 17:25:12,0
+4,20,Christopher Nolan,2005-01-01,Mroczny Rycerz,80,60,2019-05-06 11:15:45,0
+5,16,Steven Soderbergh,2010-01-01,Co z oczu,50,45,2019-05-02 12:15:12,0
+6,30,Ridley Scott,2017-01-01,Lowca androidow,60,30,2019-05-12 12:46:12,0
+7,20,Quentin Tarantino,1994-01-01,Pulp Fiction,50,30,2019-05-12 10:37:12,0
+8,20,Quentin Tarantino,2010-01-01,Django,50,30,2019-05-13 18:56:11,0
